@@ -2,7 +2,6 @@
 
 <h1>
   <a href="https://github.com/IraanC">
-   <img align="center" " width="30px" src="https://www.inteligentcomp.com/wp-content/uploads/2020/07/cropped-IC_logo_new-1-1.png">
   </a>
   <span>Iran Conceição</span>
 </h1>
