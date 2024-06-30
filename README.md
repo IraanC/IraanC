@@ -11,8 +11,7 @@
  Graduating in Information Systems && Administrative Technician. <br>
  I'm passionate about technology and sports.  I'm an aspiring Data Analyst with a passion for turning numbers into actionable insights. 
  I'm at the beginning of my data journey, but I'm looking forward to learning and growing in this fascinating area.
-  <r></r>
- <br>
+
 
 
 ### Connect with me
