@@ -9,7 +9,7 @@
 <h2> 
 <p align="justify">  
  Graduating in Information Systems && Administrative Technician. <br>
- I'm passionate about technology,  sports and an aspiring Data Analyst with a passion for turning numbers into actionable insights. 
+ I'm passionate about technology and sports.  I'm an aspiring Data Analyst with a passion for turning numbers into actionable insights. 
  I'm at the beginning of my data journey, but I'm looking forward to learning and growing in this fascinating area.
   <r></r>
  <br>
@@ -18,10 +18,3 @@
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue&color:FFF)](https://www.linkedin.com/in/iranconcei%C3%A7%C3%A3o/)
-
-
-<details align="left">
-  This is my portfolio, where some of my projects are documented, ranging from simple logic scripts, data modeling to creating a game in the godot engine.
-
- <h2> Welcome to my environment! </h2>
-</details>
