@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://i.postimg.cc/g2Zhyhds/new-app-development-desktop.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="375" src="https://i.postimg.cc/g2Zhyhds/new-app-development-desktop.png">
 
 <h1>
   <a href="https://github.com/IraanC">
