@@ -7,8 +7,7 @@
 </h1>
 <h2> 
 <p align="justify">  
- Graduando em Sistemas de Informação e Técnico Administrativo.
-Sou apaixonado por tecnologia e esportes. Sou um aspirante a analista de dados apaixonado por transformar números em insights acionáveis. Estou no início da minha jornada de dados, mas estou ansioso para aprender e crescer nesta área fascinante.
+ Sou Graduando em Sistemas de Informação apaixonado por tecnologia e esportes. Sou um aspirante a analista de dados apaixonado por transformar números em insights acionáveis. Estou no início da minha jornada de dados, mas estou ansioso para aprender e crescer nesta área fascinante.
 
 
 
